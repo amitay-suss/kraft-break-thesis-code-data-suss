@@ -7,7 +7,8 @@ This repository contains the analysis scripts and curated stellar-rotation table
 ## Contents
 - `code/` : analysis and plotting scripts
 - `data/` : curated table used in the analysis
-- `docs/` : column descriptions and notes
+- `docs/` : descriptions and notes
+- `figs/` : lightcurves produced by the code
 
 ## Reproducibility
 The main results in Chapter 3 were generated using the files in this repository.
